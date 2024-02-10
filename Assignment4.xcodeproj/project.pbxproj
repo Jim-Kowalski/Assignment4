@@ -13,6 +13,7 @@
 		B1D5FCD72B66DFF300FF1AD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1D5FCD52B66DFF300FF1AD9 /* Main.storyboard */; };
 		B1D5FCD92B66DFF300FF1AD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1D5FCD82B66DFF300FF1AD9 /* Assets.xcassets */; };
 		B1D5FCDC2B66DFF300FF1AD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1D5FCDA2B66DFF300FF1AD9 /* LaunchScreen.storyboard */; };
+		B1D5FCE62B689CC600FF1AD9 /* gnossienne1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1D5FCE52B689CC600FF1AD9 /* gnossienne1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B1D5FCD82B66DFF300FF1AD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1D5FCDB2B66DFF300FF1AD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1D5FCDD2B66DFF300FF1AD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1D5FCE52B689CC600FF1AD9 /* gnossienne1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gnossienne1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B1D5FCD52B66DFF300FF1AD9 /* Main.storyboard */,
 				B1D5FCD82B66DFF300FF1AD9 /* Assets.xcassets */,
 				B1D5FCDA2B66DFF300FF1AD9 /* LaunchScreen.storyboard */,
+				B1D5FCE52B689CC600FF1AD9 /* gnossienne1.mp3 */,
 				B1D5FCDD2B66DFF300FF1AD9 /* Info.plist */,
 			);
 			path = Assignment4;
@@ -128,6 +131,7 @@
 				B1D5FCDC2B66DFF300FF1AD9 /* LaunchScreen.storyboard in Resources */,
 				B1D5FCD92B66DFF300FF1AD9 /* Assets.xcassets in Resources */,
 				B1D5FCD72B66DFF300FF1AD9 /* Main.storyboard in Resources */,
+				B1D5FCE62B689CC600FF1AD9 /* gnossienne1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
